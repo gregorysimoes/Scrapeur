@@ -32,6 +32,6 @@ arguments:
 To do
 ======================
 * scrap a single url by passing it in
-* add a user-agent
+* ~~add a user-agent~~
 * scrap website with login authentification
 * scrap specific content (XPath or CSSSelectors)
